@@ -134,7 +134,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 5em 22em;
+    margin: 3em 3em;
     gap: 24px;
 }
 
