@@ -3,6 +3,7 @@
 ![Screenshot_36](https://github.com/SamuelArgentino/aluraplus/assets/174635851/63af9258-bfed-4ee6-a528-2acae2a8bc76)
 
 GitHub Pages: https://samuelargentino.github.io/aluraplus/
+
 Vercel: https://aluraplus-pi-seven-75.vercel.app/
 
 ## Ferramentas utilizadas:
